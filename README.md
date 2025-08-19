@@ -10,7 +10,7 @@ It is a **web-based Internship Gallery** created using **HTML, CSS, and animatio
 - Simple, clean, and professional UI  
 
 ## 📸 Preview
-![Internship Gallery Screenshot](src/Screenshot 2025-08-19 231032.png)
+![Internship Gallery Screenshot](https://github.com/Velang2003/VaultofCodes-Internship-Gallery/blob/main/src/Screenshot%202025-08-19%20231032.png?raw=true)
 
 ## 📂 Technologies Used
 - HTML5  
